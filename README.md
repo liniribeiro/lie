@@ -1,2 +1,2 @@
 # lie
-Projeto destinado ao estudo de Processamento de Linguagem Natural
+Projeto destinado ao estudo de Machine Learning
